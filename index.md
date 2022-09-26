@@ -1,12 +1,8 @@
-## Hello! My name is Ernest! ![UCSD](pictures/UCSD_logo.jpg)
-> I am a junior at **UC San Diego** studying computer science with a *minor* in cognitive science!
-
-## About me
+### Hello! My name is Ernest! ![UCSD](pictures/UCSD_logo.png)
+> I am a junior at **UC San Diego** studying *computer science* with a **minor** in *cognitive science*!
+>
 I like to make discord bots (SMS bots) on my free time! <br>
->This is [one of my most successful bots](https://top.gg/bot/511786918783090688)! 
-
-## Why Computer Science?
-I love solving puzzles and brain teasers! 
+>This is [one of my favorite bot](https://top.gg/bot/511786918783090688)! 
 
 My top three programming langugaes are:
 1. *Python*
