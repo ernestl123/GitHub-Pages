@@ -3,8 +3,8 @@
 ![UCSD](pictures/UCSD_logo.png)
 
 #### I like to make discord bots (SMS bots) on my free time!
-> This is [one of my favorite creations](https://top.gg/bot/511786918783090688)! 
-> It has its own [patreon](https://www.patreon.com/mafiabot)!
+>This is [one of my favorite creations](https://top.gg/bot/511786918783090688)! <br>
+> It has its own [patreon](https://www.patreon.com/mafiabot)!<br>
 > Here's a [fanart](pictures/bot_art.png) someone drew for the bot!
 
 #### My top three programming langugaes are:
