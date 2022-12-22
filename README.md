@@ -10,7 +10,7 @@
 
 ---
 
-### Tools I've used!🛠️
+### Tools I use!🛠️
 
 ![Python](https://img.icons8.com/color/30/python.png)
 ![Java](https://img.icons8.com/color/30/java.png)
