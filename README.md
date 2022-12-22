@@ -1,5 +1,5 @@
 ## <img src="https://media.tenor.com/-FAyspcKxdAAAAAM/brown-line.gif" width="25px"> Hi! My name is Ernest!🙇‍♂️ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ernestlin123.ernestlin123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ernest-lin-92174520a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-lin-92174520a)
 [![Patreon](https://img.shields.io/badge/Patreon-D14836.svg?&style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/mafiabot)
 >🏫 I'm a student at University of California San Diego studying Computer Science and minoring in Cognitive Science!
 <img src="https://github-readme-stats.vercel.app/api?username=ernestl123&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" align="right"/>
