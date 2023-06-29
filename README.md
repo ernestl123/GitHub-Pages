@@ -19,6 +19,7 @@
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![C](https://img.icons8.com/color/30/c-programming.png)
 ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
 ![PowerShell](https://img.icons8.com/color/30/powershell.png)
 ![SQL](https://img.icons8.com/color/30/sql.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
