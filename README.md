@@ -6,7 +6,7 @@
 
 💻 I'm passionate about software engineering and machine learning! One of my proudest projects is a SMS Discord bot called [MafiaBot](https://top.gg/bot/511786918783090688) that hosts mafia games in text channels!
 
-🍩 On my free time, I love to practice martial arts🥋, play music🎻, and play games🎲 with friends !
+🍩 On my free time, I love to practice martial arts🥋, play music🎻, cook🧑‍🍳, and play games🎲 with friends !
 
 ---
 
